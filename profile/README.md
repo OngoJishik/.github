@@ -140,7 +140,25 @@ AsyncStorage · i18next   AWS S3 (이미지)
 
 ## 📱 화면 미리보기
 
-> 로그인 · 홈 · 마이페이지 · 커뮤니티 · 음식 검색 · 음식 상세 · 전통시장 · 다국어 지원 화면 등은 [데모 자료](https://drive.google.com/drive/folders/1LkBdjfRcD4nkmWi6s2MbsdbyVXf2SHfr)에서 확인하실 수 있습니다.
+**로그인 · 홈 · 마이페이지**
+ 
+![로그인 홈 마이페이지](./screenshots/01_login_home_mypage.png)
+ 
+**음식 검색 — AI 자연어 분석 결과**
+ 
+![음식 검색](./screenshots/03_search.png)
+ 
+**음식 상세 · 전통시장 연계**
+ 
+![음식 상세 및 전통시장](./screenshots/04_detail_market.png)
+ 
+**커뮤니티 — 게시글 작성 · 피드 · 상세**
+ 
+![커뮤니티](./screenshots/02_community.png)
+ 
+**다국어 지원 (영문 화면 예시)**
+ 
+![다국어 지원](./screenshots/05_multilingual.png)
 
 ---
 
