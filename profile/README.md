@@ -11,7 +11,7 @@
 [![Database](https://img.shields.io/badge/Database-MySQL-D1AE5D?style=flat-square)](https://github.com/OngoJishik)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%E2%86%92%20AWS%20EC2-345237?style=flat-square)](https://github.com/OngoJishik)
 
-[📱 다운로드(Play Store)](https://play.google.com/store/apps/details?id=com.ongo.jishik) - 현재는 심사중에 있습니다.
+[📱 다운로드(Play Store)](https://play.google.com/store/apps/details?id=com.ongo.jishik)
 
 </div>
 
